@@ -1,24 +1,25 @@
-# TÍTULO DO PROJETO
+# Mundo das Orquídeas
 
-`CURSO`
+`Análise e Desenvolivmento de Sistemas`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`1º Eixo`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* André Malta Peixoto
+* GustavoAntonio da Silva Andrade
+* Kaio Hanrry Caldeira Lima
+* Kauê Gonçalves Magalhães da Silva
+* Tamires Mares de Jesus
+* Vinícius Alves de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
-
+* Viviâne de Almeida Tôrres
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
