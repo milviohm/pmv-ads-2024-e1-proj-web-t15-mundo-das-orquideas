@@ -3,7 +3,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A estrutura processual que foi escolhida para o desenvolvimento deste projeto, é o SCRUM. Por ser uma metodologia ágil e amplamente utilizada no gerenciamento de projetos. Além de oferecer muitos benefícios.
+Nela é possível, obter um melhor gerenciamento de projetos, obter maior flexibilidade e adaptabilidade. Conseguindo assim um maior aumento de produtividade e eficiência no desenvolvimento.
+
 
 ## Relação de Ambientes de Trabalho
 
@@ -45,13 +47,15 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+Apresente a divisão de papéis entre os membros do grupo. 
+<ul>
+<li>Scrum Master - Vinicius</li>
+<li>Product Owner - André</li>
+<li>Equipe de Desenvolvimento – Vinicius, André, Gustavo, Tamires, Kaio, Kauê</li>
+<li>Equipe de Design. -  Tamires, Gustavo, Kaio, Kauê</li>
+</ul>
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
