@@ -11,7 +11,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * André Malta Peixoto
-* GustavoAntonio da Silva Andrade
+* Gustavo Antonio da Silva Andrade
 * Kaio Hanrry Caldeira Lima
 * Kauê Gonçalves Magalhães da Silva
 * Tamires Mares de Jesus
