@@ -11,10 +11,13 @@ O problema em questão é a falta de informação e conhecimento das pessoas em 
 ## Objetivos
 
 O objetivo geral deste projeto é o desenvolvimento de uma solução usabilidade fácil e amigável que permita aos usuários a busca de conhecimento e troca de informações com outras pessoas que buscam o cultivo das Orchidaceae.
+
 Como objetivos específicos, destacamos:
-•	Disponibilizar aos usuários pesquisa sobre as variedades de cada espécie das plantas da família das Orchidaceae, como identificação e características e suas peculiaridades;
-•	Oferecer guia detalhado sobre o correto cultivo das orquídeas;
-•	Canal de comunicação com demais usuários para interação para esclarecimento de dúvidas frequentes.
+<ul>
+<li>Disponibilizar aos usuários pesquisa sobre as variedades de cada espécie das plantas da família das Orchidaceae, como identificação e características e suas peculiaridades;</li>
+<li>Oferecer guia detalhado sobre o correto cultivo das orquídeas;</li>
+<li>Canal de comunicação com demais usuários para interação para esclarecimento de dúvidas frequentes.</li>
+</ul>
 
 ## Justificativa
 
