@@ -1,7 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 A estrutura processual que foi escolhida para o desenvolvimento deste projeto, é o SCRUM. Por ser uma metodologia ágil e amplamente utilizada no gerenciamento de projetos. Além de oferecer muitos benefícios.
 Nela é possível, obter um melhor gerenciamento de projetos, obter maior flexibilidade e adaptabilidade. Conseguindo assim um maior aumento de produtividade e eficiência no desenvolvimento.
