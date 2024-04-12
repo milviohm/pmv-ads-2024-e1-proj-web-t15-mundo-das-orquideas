@@ -54,13 +54,6 @@ Apresente a divisão de papéis entre os membros do grupo.
 <li>Equipe de Design. -  Tamires, Gustavo, Kaio, Kauê</li>
 </ul>
 
-
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
-
 ### Processo
 
 As tarefas do projeto, estão divididas em quatro etapas:
