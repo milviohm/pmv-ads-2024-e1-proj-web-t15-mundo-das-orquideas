@@ -64,7 +64,12 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+As tarefas do projeto, estão divididas em quatro etapas:
+- Backlog: Coletar todas as informações e determinar as etapas e as tarefas a serem desenvolvidas.
+- To Do: Lista de tarefas a serem realizadas durante uma SPRINT em um curto período.
+- In progress: As tarefas que já foram iniciadas e estão em processo.
+- Done: Colocaremos as tarefas que já foram finalizadas.
+
  
 > **Links Úteis**:
 > - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
