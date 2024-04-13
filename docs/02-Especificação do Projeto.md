@@ -55,8 +55,8 @@
 
 | ID    | Descrição                                               | Prioridade |
 |-------|---------------------------------------------------------|------------|
-| RF-01 | O usuário deve ser capas de pequisar tipos de orquídeas; | Alta|
-| RF-02 | O usuário deve ser capas de fazer cadastro para acesso no fórum; | Alta |
+| RF-01 | O usuário deve ser capaz de pequisar tipos de orquídeas; | Alta|
+| RF-02 | O usuário deve ser capaz de fazer cadastro para acesso no fórum; | Alta |
 | RF-03 | A aplicação deve permitir o usuário fazer perguntas no fórum; | Alta |
 | RF-04 | A aplicação deve permitir o usuário fazer respostas no fórum; | Alta |
 | RF-05 | No fórum será possível classificar as respostas dos usuários como ruim, bom, muito bom; | Média|
